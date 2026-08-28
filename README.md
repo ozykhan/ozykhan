@@ -49,7 +49,7 @@ Currently building [SEO Potion](https://seopotion.co) and [Piper](https://github
 
 ## GitHub stats
 
-![Faruk's GitHub stats](https://github-readme-stats-fcanozkan.vercel.app/api?username=ozykhan&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&v=2)
+![Faruk's GitHub stats](https://github-readme-stats-fcanozkan.vercel.app/api?username=ozykhan&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&v=3)
 
 ## Contact
 
