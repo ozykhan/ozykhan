@@ -1,16 +1,16 @@
 # Hi, I'm Faruk 👋
 
-**Software engineer — from hardware to cloud.**
+**Software engineer, from hardware to cloud.**
 
-I build backend services in TypeScript/Node.js and Go on AWS and Kubernetes, deployed by pipelines I built myself. 5+ years at startups shipping products end to end — from an on-chain marketplace backend and a batch inference API to the telemetry backend of a 40K-node decentralized inference network. My engineering background runs from PCBs and Raspberry Pi fleets all the way up to multi-region clusters.
+I build backend services in TypeScript/Node.js and Go on AWS and Kubernetes, deployed by pipelines I built myself. 5+ years at startups shipping products end to end, from an on-chain marketplace backend and a batch inference API to the telemetry backend of a 40K-node decentralized inference network. My engineering background runs from PCBs and Raspberry Pi fleets all the way up to multi-region clusters.
 
 Currently building [SEO Potion](https://seopotion.co) and [Piper](https://github.com/piperbox/piper).
 
 ## Featured work
 
-- **[Piper](https://github.com/piperbox/piper)** — developer-first open-source PaaS: `git push` to a live HTTPS URL on hardware you own, even a Raspberry Pi behind CGNAT with no public IP.
-- **[SEO Potion](https://seopotion.co)** — AI SEO content platform, live in production. I own the backend and infrastructure: Hono API, SQS-triggered Lambda workers over MongoDB, defined in AWS CDK.
-- **GEPA & HollowDB** — at Dria I built GEPA, a published evolutionary prompt-optimization algorithm running on Step Functions and Lambda, and HollowDB, a decentralized key-value store on Arweave that reached up to 90% of the chain's transactions.
+- **[Piper](https://github.com/piperbox/piper)** - developer-first open-source PaaS: `git push` to a live HTTPS URL on hardware you own, even a Raspberry Pi behind CGNAT with no public IP.
+- **[SEO Potion](https://seopotion.co)** - AI SEO content platform, live in production. I own the backend and infrastructure: Hono API, SQS-triggered Lambda workers over MongoDB, defined in AWS CDK.
+- **GEPA & HollowDB** - at Dria I built GEPA, a published evolutionary prompt-optimization algorithm running on Step Functions and Lambda, and HollowDB, a decentralized key-value store on Arweave that reached up to 90% of the chain's transactions.
 
 ## Tech stack
 
